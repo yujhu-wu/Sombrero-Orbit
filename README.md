@@ -40,7 +40,7 @@
 
 ## 編譯與執行
 
-**Windows（Code::Blocks + freeglut）**：建立 GLUT 專案，加入 `src/main.cpp`，連結 `freeglut`、`opengl32`、`glu32` 後編譯執行。
+**Windows(Code::Blocks + freeglut)**：建立 GLUT 專案，加入 `src/main.cpp`，連結 `freeglut`、`opengl32`、`glu32` 後編譯執行。
 
 
 ## 說明
